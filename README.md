@@ -1,4 +1,6 @@
-# 1112-Highest-Grade-For-Each-Student
+# 1112-Highest-Grade-For-Each-Studen!
+[112](https://github.com/adcodeday/1112-Highest-Grade-For-Each-Student/assets/130963605/be203065-7141-40ee-be1b-89121959fbba)  
+t
 1112. 每位学生的最高成绩  
 SELECT student_id, course_id, grade  
 FROM (  
